@@ -1,8 +1,12 @@
-## Welcome to GitHub Pages
+# Colección de proyectos de programación
+Estos proyectos han sido desarrollados como ejemplos para cursos de las carreras ofrecidas en el DSC de la UABCS.
 
-You can use the [editor on GitHub](https://github.com/mancpato/ProyectosUABCS/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Asignaturas
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Teoría de la Computación
+- Inteligencia Artificial I
+- Redes Neuronales
+- List
 
 ### Markdown
 
