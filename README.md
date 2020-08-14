@@ -11,3 +11,15 @@ Diversos programas académicos para varias asignaturas.
 ## Guía básica
 
 De la asignatura que le interese, clone el proyecto que guste y comencemos a colaborar.
+
+## Algunos proyectos
+Organizados por asignatura. Algunos son de apoyo y otros sobre temas centrales.
+### Redes Neuronales
+- Figuras geométricas para que uan RNA aprenda, https://github.com/mancpato/PoligonoEstrella
+
+### Inteligencia Artificial I
+- Búsqueda en amplitud
+- Búsqueda en profundidad
+
+### Teoría de la Computación
+
