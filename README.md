@@ -18,7 +18,7 @@ Organizados por asignatura. Algunos son de apoyo y otros sobre temas centrales.
 - Figuras geométricas para que uan RNA aprenda, https://github.com/mancpato/PoligonoEstrella
 
 ### Inteligencia Artificial I
-- Búsqueda en amplitud
+- Búsqueda en amplitud, https://github.com/mancpato/BusqAmplitud
 - Búsqueda en profundidad
 
 ### Teoría de la Computación
